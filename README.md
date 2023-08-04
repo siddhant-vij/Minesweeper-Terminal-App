@@ -1,4 +1,4 @@
-# [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper) - Python Terminal Game
+# [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) - Python Terminal Game
 
 Minesweeper is a classic single-player puzzle game that originated in the 1960s. The game is played on a grid of squares where some number of squares contain mines. The goal of the game is to uncover all squares without mines.
 
